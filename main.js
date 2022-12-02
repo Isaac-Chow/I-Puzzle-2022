@@ -4,7 +4,7 @@ window.onload=function(){
     button.onclick=function(){}
     
     answer.onchange=function(e){
-        let number=9894078826;
+        let number=9893078826;
         if(e.target.value==number){
             window.location.href="complete.html";
         }
